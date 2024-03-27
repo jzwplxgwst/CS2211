@@ -1,0 +1,110 @@
+Script started on 2023-10-06 14:54:56-04:00 [TERM="xterm-256color" TTY="/dev/pts/34" COLUMNS="108" LINES="54"]
+]0;jwong988@compute:~/courses/cs2211/Asn/asn2[?2004h[jwong988@compute asn2]$ gcc -o converter converter.c
+[?2004l]0;jwong988@compute:~/courses/cs2211/Asn/asn2[?2004h[jwong988@compute asn2]$ ./converter
+[?2004l____________________________
+Quit: 0
+Celsius and Fahrenheit: 1
+Centimetre and Inch: 2
+Kilometer and Mile: 3
+Gallon and Liter: 4
+Enter a number 0-4 for: 1
+Celcius to Fahrenheit: C
+Fahrenheit to Celcius: F
+Choose the direction of the conversion by typing in C or F: C
+Enter the Celsius value: 17
+ 17.00 in Celsius is 62.60 in Fahrenheit.
+____________________________
+Quit: 0
+Celsius and Fahrenheit: 1
+Centimetre and Inch: 2
+Kilometer and Mile: 3
+Gallon and Liter: 4
+Enter a number 0-4 for: 1
+Celcius to Fahrenheit: C
+Fahrenheit to Celcius: F
+Choose the direction of the conversion by typing in C or F: F
+Enter the Fahrenheit value: 62.6
+62.60 in Fahrenheit is 17.00 in Celsius.
+____________________________
+Quit: 0
+Celsius and Fahrenheit: 1
+Centimetre and Inch: 2
+Kilometer and Mile: 3
+Gallon and Liter: 4
+Enter a number 0-4 for: 2
+Centimetre to Inch: C
+Inch to Centimetre: I
+Choose the direction of the conversion by typing in C or I: 10  C
+Enter the Centimetre value: 10
+10.00 in Centimetres is 3.94 in Inches.
+____________________________
+Quit: 0
+Celsius and Fahrenheit: 1
+Centimetre and Inch: 2
+Kilometer and Mile: 3
+Gallon and Liter: 4
+Enter a number 0-4 for: 2
+Centimetre to Inch: C
+Inch to Centimetre: I
+Choose the direction of the conversion by typing in C or I: I
+Enter the Inch value: 10
+10.00 in Inches is 25.40 in Centimetres.
+____________________________
+Quit: 0
+Celsius and Fahrenheit: 1
+Centimetre and Inch: 2
+Kilometer and Mile: 3
+Gallon and Liter: 4
+Enter a number 0-4 for: 3
+Kilometer to Mile: K
+Mile to Kilometer: M
+Choose the direction of the conversion by typing in K or M: K
+Enter the Kilometer value: 10
+10.00 in Kilometers is 6.22 in Miles.
+____________________________
+Quit: 0
+Celsius and Fahrenheit: 1
+Centimetre and Inch: 2
+Kilometer and Mile: 3
+Gallon and Liter: 4
+Enter a number 0-4 for: 3
+Kilometer to Mile: K
+Mile to Kilometer: M
+Choose the direction of the conversion by typing in K or M: M
+Enter the Mile value: 10  90
+90.00 in Miles is 144.81 in Kilometers.
+____________________________
+Quit: 0
+Celsius and Fahrenheit: 1
+Centimetre and Inch: 2
+Kilometer and Mile: 3
+Gallon and Liter: 4
+Enter a number 0-4 for: 4
+Gallon to Liter: G
+Liter to Gallon: L
+Choose the direction of the conversion by typing in G or L: G
+Enter the Gallon value: 1
+1.00 in Gallons is 3.79 in Liters
+____________________________
+Quit: 0
+Celsius and Fahrenheit: 1
+Centimetre and Inch: 2
+Kilometer and Mile: 3
+Gallon and Liter: 4
+Enter a number 0-4 for: 4
+Gallon to Liter: G
+Liter to Gallon: L
+Choose the direction of the conversion by typing in G or L: L
+Enter the Liter value: 1
+1.00 in Liters is 0.26 in Gallons.
+____________________________
+Quit: 0
+Celsius and Fahrenheit: 1
+Centimetre and Inch: 2
+Kilometer and Mile: 3
+Gallon and Liter: 4
+Enter a number 0-4 for: 0
+]0;jwong988@compute:~/courses/cs2211/Asn/asn2[?2004h[jwong988@compute asn2]$ exit
+[?2004lexit
+
+Script done on 2023-10-06 14:56:21-04:00 [COMMAND_EXIT_CODE="0"]
