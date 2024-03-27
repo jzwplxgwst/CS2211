@@ -1,0 +1,35 @@
+Script started on 2023-09-21 21:33:42-04:00 [TERM="xterm-256color" TTY="/dev/pts/47" COLUMNS="104" LINES="57"]
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ date
+[?2004lThu Sep 21 09:33:53 PM EDT 2023
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ whoami
+[?2004ljwong988
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ pwd
+[?2004l/home/jwong988/courses/cs2211/Asn/asn1/q2q3
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ /usr/bin/ls df2 df1 tf2 tf1
+[?2004ltf1  tf2
+
+df1:
+df1
+
+df2:
+tf1
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ /usr/bin/ls df1df2[C[C[C df2[C[1@ [1@-[1@l[C[1@ [1P[C[C[C[C[C[C[C[C[C[C[C
+[?2004ldf1:
+total 1
+-rw-r--r-- 1 jwong988 jwong988 0 Sep 14 11:55 df1
+
+df2:
+total 1
+drwxr-xr-x 2 jwong988 jwong988 2 Sep 14 11:56 tf1
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ /usr/bin/ls -d df1 df2
+[?2004ldf1  df2
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ /usr/bin/ls
+[?2004lasn1_q3.script	df1  df2  tf1  tf2
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ /usr/bin/ls.
+[?2004lbash: /usr/bin/ls.: No such file or directory
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ /usr/bin/ls .
+[?2004lasn1_q3.script	df1  df2  tf1  tf2
+]0;jwong988@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[jwong988@compute q2q3]$ exit
+[?2004lexit
+
+Script done on 2023-09-21 21:35:56-04:00 [COMMAND_EXIT_CODE="0"]
