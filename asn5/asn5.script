@@ -1,0 +1,14 @@
+Script started on 2023-12-04 23:45:01-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="105" LINES="54"]
+]0;jwong988@compute:~/courses/cs2211/Asn/asn5[?2004h[jwong988@compute asn5]$ gcc [K[K[K[Kls
+[?2004lasn5.script  bstree.h    datatype.h  Makefile  matrix.h
+bstree.c     datatype.c  main.c      matrix.c  sample.txt
+]0;jwong988@compute:~/courses/cs2211/Asn/asn5[?2004h[jwong988@compute asn5]$ gcc -oi[K bst fd[K[Kdatatype.c bstree.c matrix.c main,.c[K[K[K,.c[K[K[K.c
+[?2004l]0;jwong988@compute:~/courses/cs2211/Asn/asn5[?2004h[jwong988@compute asn5]$ ./bst
+[?2004lMatrix Contents:
+
+]0;jwong988@compute:~/courses/cs2211/Asn/asn5[?2004h[jwong988@compute asn5]$ make clean
+[?2004lrm -f main.o matrix.o bstree.o datatype.o bst
+]0;jwong988@compute:~/courses/cs2211/Asn/asn5[?2004h[jwong988@compute asn5]$ exit
+[?2004lexit
+
+Script done on 2023-12-04 23:45:50-05:00 [COMMAND_EXIT_CODE="0"]
