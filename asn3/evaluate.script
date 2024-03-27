@@ -1,0 +1,33 @@
+Script started on 2023-10-20 14:19:03-04:00 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="108" LINES="57"]
+]0;jwong988@compute:~/courses/cs2211/Asn/asn3[?2004h[jwong988@compute asn3]$ ./evalute[K[Kate
+[?2004lEnter a simple arithmetic expression: 6
+The answer is: 6
+Do you wish to continue (Y/N)? 4+2
+Do you wish to continue (Y/N)? Do you wish to continue (Y/N)? Do you wish to continue (Y/N)? y y
+Enter a simple arithmetic expression: 2+4
+The answer is: 6
+Do you wish to continue (Y/N)? Y
+Enter a simple arithmetic expression: 5--2
+The answer is: 7
+Do you wish to continue (Y/N)? y q
+Do you wish to continue (Y/N)? w
+Do you wish to continue (Y/N)? e
+Do you wish to continue (Y/N)? P
+Do you wish to continue (Y/N)? o O
+Do you wish to continue (Y/N)? y
+Enter a simple arithmetic expression: 2.6+2-1.6-10
+The answer is: -7
+Do you wish to continue (Y/N)? Y
+Enter a simple arithmetic expression: -2.0++20+1.6-10-100
+The answer is: -90.4
+Do you wish to continue (Y/N)? Y
+Enter a simple arithmetic expression: 2.6-1.6*10-2.0
+Invaid operator detected.
+]0;jwong988@compute:~/courses/cs2211/Asn/asn3[?2004h[jwong988@compute asn3]$ ./evalute[K[Kate
+[?2004lEnter a simple arithmetic expression: 2.6--1.6+10+2.0+2-2
+The answer is: 16.2
+Do you wish to continue (Y/N)? N
+]0;jwong988@compute:~/courses/cs2211/Asn/asn3[?2004h[jwong988@compute asn3]$ exit
+[?2004lexit
+
+Script done on 2023-10-20 14:21:06-04:00 [COMMAND_EXIT_CODE="0"]
