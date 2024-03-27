@@ -1,0 +1,53 @@
+Script started on 2023-11-16 19:21:51-05:00 [TERM="xterm-256color" TTY="/dev/pts/57" COLUMNS="108" LINES="55"]
+]0;jwong988@compute:~/courses/cs2211/Asn/asn4[?2004h[jwong988@compute asn4]$ ./bs_tree sample.t[K[K_input.txt
+[?2004lTest case 1: Sample test given by instructor
+100  1st Street                    1000
+8    3 Valleys Place               2000
+74   3rd Street                    3000
+4    4 Oaks Crescent               2100
+10   Abbott Street                 2300
+204  Beech Drive                   1800
+36   Beechbank Crescent            2400
+36   Beechmount Crescent           2500
+70   Oxford Street                 2500
+101  Western Road                  2500
+Test case 2: Different order of sample test given by instructor
+100  1st Street                    1000
+8    3 Valleys Place               2000
+74   3rd Street                    3000
+4    4 Oaks Crescent               2100
+10   Abbott Street                 2300
+204  Beech Drive                   1800
+36   Beechbank Crescent            2400
+36   Beechmount Crescent           2500
+46   Oxford Street                 2600
+70   Oxford Street                 2500
+101  Western Road                  2500
+Test case 3: Insert a binary search tree
+Enter the binary number name: 100 Mexico Str            s Star Avenue
+Enter the binary search tree number: 1000
+Do you wish to add more? (Y or N) i
+Do you wish to add more? (Y or N) y
+Do you wish to add more? (Y or N) Y
+Enter the binary number name: 7 Yessir Valley
+Enter the binary search tree number: 900
+Do you wish to add more? (Y or N) n
+Do you wish to add more? (Y or N) N
+100  Star Avenue                   1000
+7    Yessir Valley                 900
+Test case 4: Reading from stdin or redirect from a file
+4        4 Oaks Crescent           3000
+101      Western Road              2000
+8      3 Valleys Place             2500
+74     3rd Street                  2500
+70     Oxford Street               600
+100   1st Street                   2300
+10    Abbott Street                2100
+204   Beech Drive                  1000
+36    Beechbank Crescent           1800
+36    Beechmount Crescent          2400
+46    Oxford Street                2500
+]0;jwong988@compute:~/courses/cs2211/Asn/asn4[?2004h[jwong988@compute asn4]$ exit
+[?2004lexit
+
+Script done on 2023-11-16 19:22:55-05:00 [COMMAND_EXIT_CODE="0"]

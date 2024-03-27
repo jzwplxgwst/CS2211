@@ -1,0 +1,25 @@
+Script started on 2023-11-15 01:36:42-05:00 [TERM="xterm-256color" TTY="/dev/pts/16" COLUMNS="108" LINES="57"]
+[systemd]
+Failed Units: [31m1[39m
+  dnf-makecache.service
+]0;jwong988@compute:~/courses/cs2211/Asn/asn4[?2004h[jwong988@compute asn4]$ gcc -o euler euler.c
+[?2004l]0;jwong988@compute:~/courses/cs2211/Asn/asn4[?2004h[jwong988@compute asn4]$ ./euler
+[?2004lEnter a small number e: 0.0001
+
+The Mathematical constant e: 2.718253968253968
+]0;jwong988@compute:~/courses/cs2211/Asn/asn4[?2004h[jwong988@compute asn4]$ ./euler
+[?2004lEnter a small number e: 0.0000001
+
+The Mathematical constant e: 2.718281801146385
+]0;jwong988@compute:~/courses/cs2211/Asn/asn4[?2004h[jwong988@compute asn4]$ ./euler
+[?2004lEnter a small number e: 0.0000000001
+
+The Mathematical constant e: 2.718281828446759
+]0;jwong988@compute:~/courses/cs2211/Asn/asn4[?2004h[jwong988@compute asn4]$ ./euler
+[?2004lEnter a small number e: 0.0000000000001
+
+The Mathematical constant e: 2.718281828458995
+]0;jwong988@compute:~/courses/cs2211/Asn/asn4[?2004h[jwong988@compute asn4]$ exit
+[?2004lexit
+
+Script done on 2023-11-15 01:38:29-05:00 [COMMAND_EXIT_CODE="0"]
